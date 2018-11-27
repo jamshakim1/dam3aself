@@ -11,7 +11,7 @@ $ apt update
 $ apt upgrade
 $ apt install python
 $ apt install git
-$ git clone https://github.com/arifistifik/sb
+$ https://github.com/midox007x/dam3aself
 $ cd sb
 $ python sb.py
 ```
@@ -19,7 +19,7 @@ $ python sb.py
 ## Installation for VPS
 
 ```sh
-$ git clone https://github.com/arifistifik/sb
+$ https://github.com/midox007x/dam3aself.git
 $ cd sb
 $ python3 sb.py
 ```
